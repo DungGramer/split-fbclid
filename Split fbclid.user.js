@@ -4,9 +4,10 @@
 // @version      1.0
 // @description  Split fbclid when open link from facebook
 // @homepage     https://greasyfork.org/en/scripts/415274-split-fbclid
-// @namespace    https://www.facebook.com/dung.dev.gramer/
-// @icon         https://www.flaticon.com/svg/static/icons/svg/889/889578.svg
+// @namespace    https://github.com/DungGramer/skip-fbclid/
+// @icon         https://raw.githubusercontent.com/DungGramer/skip-fbclid/main/icon.png
 // @include      /((&fbclid=\w+)|(fbclid=\w+))(-\w+|)/
+// @license		 MIT
 // @grant        none
 // ==/UserScript==
 
