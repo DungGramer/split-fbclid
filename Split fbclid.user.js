@@ -7,7 +7,8 @@
 // @namespace    https://github.com/DungGramer/skip-fbclid/
 // @icon         https://raw.githubusercontent.com/DungGramer/skip-fbclid/main/icon.png
 // @include      /((&fbclid=\w+)|(fbclid=\w+))(-\w+|)/
-// @license		 MIT
+// @license      CC-BY-SA-3.0; http://creativecommons.org/licenses/by-sa/3.0/
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
